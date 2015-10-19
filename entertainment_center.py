@@ -1,4 +1,4 @@
-import media #the movie object
+import media
 import fresh_tomatoes #this webpage that will display movie instances
 
 """File: entertainment_center.py 
