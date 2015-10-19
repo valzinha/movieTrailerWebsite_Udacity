@@ -13,3 +13,4 @@ How to run the project:
 - You will need access to the internet in order to run this website project
 - Run entertainment_center.py
 - Click on a movie poster images to play the movie's trailer 
+- Click anywhere on the website (not including the trailer pop up window) to close the trailer
