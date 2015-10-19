@@ -13,7 +13,7 @@ class Movie():
         self.imdb = movie_imdb
         self.release_date = movie_release_date
         self.rating = movie_rating
-        
+
         
     #This method will automatically play a movie's trailer 
     def show_trailer(self):
